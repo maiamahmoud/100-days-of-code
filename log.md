@@ -3,10 +3,11 @@
 ### Day 0: June 21, 2020 
 
 
-**Today's Progress**:
-**Thoughts:**
+**Today's Progress**:got the silver badge on hackerrank , reach to day 2 of 30daysofcoding on hackerrank,and reach to sliver badge on c++ problems 
 
-**Link to work:** 
+**Thoughts**: i started android coding but i stoped tp solve some c++ problems that i couldn't solve before, but i managed to solve now
+
+**Link to work:** https://www.hackerrank.com/maiadamahmoud_a
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
